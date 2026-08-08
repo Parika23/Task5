@@ -97,7 +97,7 @@ Account information is stored permanently in an `accounts.csv` file. The program
 ## Project Structure
 
 ```text
-ATM-Simulation/
+Task5/
 │
 ├── atm.py
 ├── accounts.csv
